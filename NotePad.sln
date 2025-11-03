@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad", "NotePad.csproj",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{EFFDB4A1-609A-437F-A55E-530ABBA05C60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{CEF8A222-A32D-47F2-A640-4063764A990C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EFFDB4A1-609A-437F-A55E-530ABBA05C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFFDB4A1-609A-437F-A55E-530ABBA05C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFFDB4A1-609A-437F-A55E-530ABBA05C60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF8A222-A32D-47F2-A640-4063764A990C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF8A222-A32D-47F2-A640-4063764A990C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF8A222-A32D-47F2-A640-4063764A990C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF8A222-A32D-47F2-A640-4063764A990C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
